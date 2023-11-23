@@ -1,5 +1,6 @@
 import "./App.css";
 import Inputs from "./components/Inputs";
+import TimeAndLocation from "./components/TimeAndLocation";
 import TopButtons from "./components/TopButtons";
 //import UilReact from "@iconscout/react-unicons/icons/uil-react";
 
@@ -9,6 +10,8 @@ function App() {
     shadow-gray-400">
       <TopButtons/>
       <Inputs/>
+      
+      <TimeAndLocation/>
     </div>
   );
 }
