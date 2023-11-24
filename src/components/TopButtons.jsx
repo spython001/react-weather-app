@@ -7,19 +7,19 @@ function TopButtons() {
     },
     {
         id:2,
-        title: 'Abuja'
+        title: 'London'
     },
     {
         id:3,
-        title: 'Enugu'
+        title: 'Paris'
     },
     {
         id:4,
-        title: 'Jigawa'
+        title: 'New York'
     },
     {
         id:5,
-        title: 'Oyo'
+        title: 'Abuja'
     },
   ]
 
