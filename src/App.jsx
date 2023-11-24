@@ -2,6 +2,7 @@ import "./App.css";
 import Inputs from "./components/Inputs";
 import TimeAndLocation from "./components/TimeAndLocation";
 import TopButtons from "./components/TopButtons";
+import TemperatureAndDetails from "./components/TemperatureAndDetails"
 //import UilReact from "@iconscout/react-unicons/icons/uil-react";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Inputs/>
       
       <TimeAndLocation/>
+      <TemperatureAndDetails/>
     </div>
   );
 }
